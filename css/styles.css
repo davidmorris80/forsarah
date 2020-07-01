@@ -1,0 +1,62 @@
+body {
+  font-family: 'Alice', serif;
+  text-align:center;
+}
+
+h2 {
+  font-weight:bold;
+  text-decoration: underline;
+  font-size: 3em;
+  padding-bottom: 1em;
+  color: #5E293A;
+  z-index: 1;
+}
+p {
+  font-size: 2em;
+  z-index: 1;
+}
+p:hover {
+  color:#FFF;
+}
+.header {
+  background-color: #E3628B;
+  font-family: 'Sacramento', cursive;
+  font-weight: bold;
+  color:#5E293A;
+  padding-bottom: 2em;
+}
+.body {
+  background-color: #DFA3B6;
+  padding:5%;
+
+}
+
+.heart {
+  position:relative;
+  width: 7.5%;
+  margin:auto;
+
+}
+
+
+.footer {
+  background-color: #E3628B;
+  font-family: 'Sacramento', cursive;
+  padding: 3% 10% 5%;
+  font-size: 20em;
+  color:#5E293A;
+}
+
+.h1-title{
+  font-size: 10em;
+}
+
+.h2-title{
+  font-size: 10em;
+  text-align:center;
+}
+
+.heartsimg{
+  width: 20em;
+text-align: left;
+}
